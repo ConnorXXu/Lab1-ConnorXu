@@ -1,1 +1,1 @@
-This is my study buddy project for COGS3 at UCSD.
+This is my first Lab assignment for COGS3 at UCSD.
